@@ -1,0 +1,4 @@
+interface:
+  display_name: "日本語出力"
+  short_description: "読みやすい句読点と自然な語彙で明確かつ簡潔な日本語を書く"
+  default_prompt: "Use $japanese-writing to draft or refine this text in clear, natural Japanese."

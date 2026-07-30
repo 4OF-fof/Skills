@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tiny Code"
+  short_description: "依存を外側へ寄せて保守できる必要最小限の実装を行う"
+  default_prompt: "Use $tiny-code to implement this change with minimal dependencies and clear boundaries."

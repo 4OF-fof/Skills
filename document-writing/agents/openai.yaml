@@ -1,0 +1,4 @@
+interface:
+  display_name: "文書記載"
+  short_description: "確認済みの事実を軸に推測を明示して正確な文書を書く"
+  default_prompt: "Use $document-writing to draft or edit this document while distinguishing verified facts from assumptions."
