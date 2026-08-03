@@ -1,4 +1,4 @@
 interface:
   display_name: "Tiny Code"
-  short_description: "依存を外側へ寄せて保守できる必要最小限の実装を行う"
-  default_prompt: "Use $tiny-code to implement this change with minimal dependencies and clear boundaries."
+  short_description: "確認範囲を境界内に閉じ、外部更新の影響を接続部へ隔離する"
+  default_prompt: "Use $tiny-code to localize this change, limit inspection to proven boundaries, and isolate independently updated external components without unnecessary implementation."
