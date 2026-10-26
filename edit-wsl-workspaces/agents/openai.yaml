@@ -1,4 +1,0 @@
-interface:
-  display_name: "WSLワークスペース編集"
-  short_description: "Windows側からWSL内のリポジトリを安全に編集する"
-  default_prompt: "Use $edit-wsl-workspaces to inspect and edit this WSL repository safely."
